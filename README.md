@@ -36,16 +36,24 @@
 
 <p align="center">
  <img src="https://github.com/lucas-korea/adas_sensor_project/assets/57425658/83d8fac5-66cb-4305-89d6-d1cac55f406b"  width="400" height="170">
- <em>편광카메라 이미지 추출 장면</em>
 <p>
+<p align="center" style="color:gray">
+편광카메라 이미지 추출 장면
+</p>
+
 
 <p align="center">
  <img src="https://github.com/lucas-korea/adas_sensor_project/assets/57425658/11e5e01b-a8fa-48bc-b3c2-0e96504616fc"  width="100" height="100">
- <em>편광카메라 이미지 추출 폴더 트리</em>
 <p>
+<p align="center" style="color:gray">
+편광카메라 이미지 추출 폴더 트리
+</p>
+
 
 <p align="center">
  <img src="https://github.com/lucas-korea/adas_sensor_project/assets/57425658/d244756b-a705-4c6f-99a5-f24924e2bb34"  width="400" height="250">
- <em>편광카메라 이미지 추출 결과 예시</em>
 <p>
+<p align="center" style="color:gray">
+편광카메라 이미지 추출 결과 예시
+</p>
 
