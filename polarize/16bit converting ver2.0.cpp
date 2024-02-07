@@ -157,7 +157,7 @@ void mkdirs(string path, string subdirectory) {
 
 
 int main() {
-    string root_path = "E:\\240123"; // 카메라 취득 binary 데이터가 있는 폴더 
+    string root_path = "E:\\240130_night"; // 카메라 취득 binary 데이터가 있는 폴더 
 
     vector<string> file_list; // root_path의 파일 목록 list 만들기, python os.listdir() 기능
     for (const auto& entry : fs::directory_iterator(root_path)) {
